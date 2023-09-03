@@ -1,0 +1,1380 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 680" fill="none" style="width:100%;background:black;">
+<defs>
+	<path id="check" fill-rule="evenodd" d="M21.36 9.886A3.933 3.933 0 0 0 18 8c-1.423 0-2.67.755-3.36 1.887a3.935 3.935 0 0 0-4.753 4.753A3.933 3.933 0 0 0 8 18c0 1.423.755 2.669 1.886 3.36a3.935 3.935 0 0 0 4.753 4.753 3.933 3.933 0 0 0 4.863 1.59 3.953 3.953 0 0 0 1.858-1.589 3.935 3.935 0 0 0 4.753-4.754A3.933 3.933 0 0 0 28 18a3.933 3.933 0 0 0-1.887-3.36 3.934 3.934 0 0 0-1.042-3.711 3.934 3.934 0 0 0-3.71-1.043Zm-3.958 11.713 4.562-6.844c.566-.846-.751-1.724-1.316-.878l-4.026 6.043-1.371-1.368c-.717-.722-1.836.396-1.116 1.116l2.17 2.15a.788.788 0 0 0 1.097-.22Z"/>
+	<path id="oval" fill-rule="evenodd" d="M21.36 9.886A3.933 3.933 0 0 0 18 8c-1.423 0-2.67.755-3.36 1.887a3.935 3.935 0 0 0-4.753 4.753A3.933 3.933 0 0 0 8 18c0 1.423.755 2.669 1.886 3.36a3.935 3.935 0 0 0 4.753 4.753 3.933 3.933 0 0 0 4.863 1.59 3.953 3.953 0 0 0 1.858-1.589 3.935 3.935 0 0 0 4.753-4.754A3.933 3.933 0 0 0 28 18a3.933 3.933 0 0 0-1.887-3.36 3.934 3.934 0 0 0-1.042-3.711 3.934 3.934 0 0 0-3.71-1.043Zm-3.958 11.713"/>
+	<rect id="square" width="36" height="36" stroke="#191919"/>
+</defs>
+<rect width="680" height="680" fill="black"/>
+<rect x="188" y="152" width="304" height="376" fill="#6FA804"/>
+<g id="grid" x="196" y="160">
+	<use href="#row" y="0"/>
+	<use href="#row" y="36"/>
+	<use href="#row" y="72"/>
+	<use href="#row" y="108"/>
+	<use href="#row" y="144"/>
+	<use href="#row" y="180"/>
+	<use href="#row" y="216"/>
+	<use href="#row" y="252"/>
+	<use href="#row" y="288"/>
+	<use href="#row" y="324"/>
+</g>
+		<g transform="translate(196, 160) scale(1) rotate(-30, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(196, 160) scale(1) rotate(90, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(196, 160) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(232, 160) scale(1) rotate(-25, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(232, 160) scale(1) rotate(95, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(232, 160) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(268, 160) scale(1) rotate(-20, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(268, 160) scale(1) rotate(100, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(268, 160) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(304, 160) scale(1) rotate(-15, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(304, 160) scale(1) rotate(105, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(304, 160) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(340, 160) scale(1) rotate(-10, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(340, 160) scale(1) rotate(110, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(340, 160) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(376, 160) scale(1) rotate(-5, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(376, 160) scale(1) rotate(115, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(376, 160) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(412, 160) scale(1) rotate(0, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(412, 160) scale(1) rotate(120, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(412, 160) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(448, 160) scale(1) rotate(5, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(448, 160) scale(1) rotate(125, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(448, 160) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(196, 196) scale(1) rotate(10, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(196, 196) scale(1) rotate(130, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(196, 196) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(232, 196) scale(1) rotate(15, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(232, 196) scale(1) rotate(135, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(232, 196) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(268, 196) scale(1) rotate(20, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(268, 196) scale(1) rotate(140, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(268, 196) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(304, 196) scale(1) rotate(25, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(304, 196) scale(1) rotate(145, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(304, 196) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(340, 196) scale(1) rotate(30, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(340, 196) scale(1) rotate(150, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(340, 196) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(376, 196) scale(1) rotate(35, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(376, 196) scale(1) rotate(155, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(376, 196) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(412, 196) scale(1) rotate(40, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(412, 196) scale(1) rotate(160, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(412, 196) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(448, 196) scale(1) rotate(45, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(448, 196) scale(1) rotate(165, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(448, 196) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(196, 232) scale(1) rotate(50, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(196, 232) scale(1) rotate(170, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(196, 232) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(232, 232) scale(1) rotate(55, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(232, 232) scale(1) rotate(175, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(232, 232) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(268, 232) scale(1) rotate(60, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(268, 232) scale(1) rotate(180, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(268, 232) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(304, 232) scale(1) rotate(65, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(304, 232) scale(1) rotate(185, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(304, 232) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(340, 232) scale(1) rotate(70, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(340, 232) scale(1) rotate(190, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(340, 232) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(376, 232) scale(1) rotate(75, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(376, 232) scale(1) rotate(195, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(376, 232) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(412, 232) scale(1) rotate(80, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(412, 232) scale(1) rotate(200, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(412, 232) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(448, 232) scale(1) rotate(85, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(448, 232) scale(1) rotate(205, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(448, 232) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(196, 268) scale(1) rotate(90, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(196, 268) scale(1) rotate(210, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(196, 268) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(232, 268) scale(1) rotate(95, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(232, 268) scale(1) rotate(215, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(232, 268) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(268, 268) scale(1) rotate(100, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(268, 268) scale(1) rotate(220, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(268, 268) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(304, 268) scale(1) rotate(105, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(304, 268) scale(1) rotate(225, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(304, 268) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(340, 268) scale(1) rotate(110, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(340, 268) scale(1) rotate(230, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(340, 268) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(376, 268) scale(1) rotate(115, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(376, 268) scale(1) rotate(235, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(376, 268) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(412, 268) scale(1) rotate(120, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(412, 268) scale(1) rotate(240, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(412, 268) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(448, 268) scale(1) rotate(125, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(448, 268) scale(1) rotate(245, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(448, 268) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(196, 304) scale(1) rotate(130, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(196, 304) scale(1) rotate(250, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(196, 304) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(232, 304) scale(1) rotate(135, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(232, 304) scale(1) rotate(255, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(232, 304) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(268, 304) scale(1) rotate(140, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(268, 304) scale(1) rotate(260, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(268, 304) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(304, 304) scale(1) rotate(145, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(304, 304) scale(1) rotate(265, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(304, 304) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(340, 304) scale(1) rotate(150, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(340, 304) scale(1) rotate(270, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(340, 304) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(376, 304) scale(1) rotate(155, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(376, 304) scale(1) rotate(275, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(376, 304) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(412, 304) scale(1) rotate(160, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(412, 304) scale(1) rotate(280, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(412, 304) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(448, 304) scale(1) rotate(165, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(448, 304) scale(1) rotate(285, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(448, 304) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(196, 340) scale(1) rotate(170, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(196, 340) scale(1) rotate(290, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(196, 340) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(232, 340) scale(1) rotate(175, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(232, 340) scale(1) rotate(295, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(232, 340) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(268, 340) scale(1) rotate(180, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(268, 340) scale(1) rotate(300, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(268, 340) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(304, 340) scale(1) rotate(185, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(304, 340) scale(1) rotate(305, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(304, 340) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(340, 340) scale(1) rotate(190, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(340, 340) scale(1) rotate(310, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(340, 340) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(376, 340) scale(1) rotate(195, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(376, 340) scale(1) rotate(315, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(376, 340) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(412, 340) scale(1) rotate(200, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(412, 340) scale(1) rotate(320, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(412, 340) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(448, 340) scale(1) rotate(205, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(448, 340) scale(1) rotate(325, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(448, 340) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(196, 376) scale(1) rotate(210, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(196, 376) scale(1) rotate(330, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(196, 376) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(232, 376) scale(1) rotate(215, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(232, 376) scale(1) rotate(335, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(232, 376) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(268, 376) scale(1) rotate(220, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(268, 376) scale(1) rotate(340, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(268, 376) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(304, 376) scale(1) rotate(225, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(304, 376) scale(1) rotate(345, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(304, 376) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(340, 376) scale(1) rotate(230, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(340, 376) scale(1) rotate(350, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(340, 376) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(376, 376) scale(1) rotate(235, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(376, 376) scale(1) rotate(355, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(376, 376) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(412, 376) scale(1) rotate(240, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(412, 376) scale(1) rotate(360, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(412, 376) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(448, 376) scale(1) rotate(245, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(448, 376) scale(1) rotate(365, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(448, 376) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(196, 412) scale(1) rotate(250, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(196, 412) scale(1) rotate(370, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(196, 412) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(232, 412) scale(1) rotate(255, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(232, 412) scale(1) rotate(375, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(232, 412) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(268, 412) scale(1) rotate(260, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(268, 412) scale(1) rotate(380, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(268, 412) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(304, 412) scale(1) rotate(265, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(304, 412) scale(1) rotate(385, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(304, 412) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(340, 412) scale(1) rotate(270, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(340, 412) scale(1) rotate(390, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(340, 412) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(376, 412) scale(1) rotate(275, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(376, 412) scale(1) rotate(395, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(376, 412) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(412, 412) scale(1) rotate(280, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(412, 412) scale(1) rotate(400, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(412, 412) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(448, 412) scale(1) rotate(285, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(448, 412) scale(1) rotate(405, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(448, 412) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(196, 448) scale(1) rotate(290, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(196, 448) scale(1) rotate(410, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(196, 448) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(232, 448) scale(1) rotate(295, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(232, 448) scale(1) rotate(415, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(232, 448) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(268, 448) scale(1) rotate(300, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(268, 448) scale(1) rotate(420, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(268, 448) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(304, 448) scale(1) rotate(305, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(304, 448) scale(1) rotate(425, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(304, 448) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(340, 448) scale(1) rotate(310, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(340, 448) scale(1) rotate(430, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(340, 448) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(376, 448) scale(1) rotate(315, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(376, 448) scale(1) rotate(435, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(376, 448) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(412, 448) scale(1) rotate(320, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(412, 448) scale(1) rotate(440, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(412, 448) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(448, 448) scale(1) rotate(325, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(448, 448) scale(1) rotate(445, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(448, 448) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(196, 484) scale(1) rotate(-30, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(196, 484) scale(1) rotate(90, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(196, 484) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(232, 484) scale(1) rotate(-25, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(232, 484) scale(1) rotate(95, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(232, 484) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(268, 484) scale(1) rotate(-20, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(268, 484) scale(1) rotate(100, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(268, 484) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(304, 484) scale(1) rotate(-15, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(304, 484) scale(1) rotate(105, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(304, 484) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(340, 484) scale(1) rotate(-10, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(340, 484) scale(1) rotate(110, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(340, 484) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(376, 484) scale(1) rotate(-5, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(376, 484) scale(1) rotate(115, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(376, 484) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(412, 484) scale(1) rotate(0, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(412, 484) scale(1) rotate(120, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(412, 484) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	
+		<g transform="translate(448, 484) scale(1) rotate(5, 18, 20.5)">
+			<use href="#oval" fill="#000">
+				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+			</use>
+		</g>
+		<g transform="translate(448, 484) scale(1) rotate(125, 20.5, 17.5)">
+			<use href="#oval" fill="#fff">
+				<animate attributeName="fill"/>
+			</use>
+		</g>
+		<g transform="translate(448, 484) scale(1)">
+		<use href="#check" fill="#0000FF">
+			<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
+		</use>
+	</g>
+	
+	</svg>

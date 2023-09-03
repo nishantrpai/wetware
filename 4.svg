@@ -1,0 +1,73 @@
+<svg width="681" height="681" viewBox="0 0 681 681" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <svg id="patternId" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <pattern id="a" patternUnits="userSpaceOnUse" width="70" height="8" patternTransform="scale(1) rotate(0)">
+        <rect x="0" y="0" width="100%" height="100%" fill="hsla(0, 9%, 0%, 1)"/>
+        <path d="M-.02 22c8.373 0 11.938-4.695 16.32-9.662C20.785 7.258 25.728 2 35 2c9.272 0 14.215 5.258 18.7 10.338C58.082 17.305 61.647 22 70.02 22M-.02 14.002C8.353 14 11.918 9.306 16.3 4.339 20.785-.742 25.728-6 35-6 44.272-6 49.215-.742 53.7 4.339c4.382 4.967 7.947 9.661 16.32 9.664M70 6.004c-8.373-.001-11.918-4.698-16.3-9.665C49.215-8.742 44.272-14 35-14c-9.272 0-14.215 5.258-18.7 10.339C11.918 1.306 8.353 6-.02 6.002" stroke-width="1" stroke="hsla(258.5,59.4%,59.4%,1)" fill="none"/>
+      </pattern>
+    </defs>
+    <defs>
+      <pattern id="b" patternUnits="userSpaceOnUse" width="70" height="8" patternTransform="scale(1) rotate(90)">
+        <rect x="0" y="0" width="100%" height="100%" fill="hsla(0, 9%, 0%, 1)"/>
+        <path d="M-.02 22c8.373 0 11.938-4.695 16.32-9.662C20.785 7.258 25.728 2 35 2c9.272 0 14.215 5.258 18.7 10.338C58.082 17.305 61.647 22 70.02 22M-.02 14.002C8.353 14 11.918 9.306 16.3 4.339 20.785-.742 25.728-6 35-6 44.272-6 49.215-.742 53.7 4.339c4.382 4.967 7.947 9.661 16.32 9.664M70 6.004c-8.373-.001-11.918-4.698-16.3-9.665C49.215-8.742 44.272-14 35-14c-9.272 0-14.215 5.258-18.7 10.339C11.918 1.306 8.353 6-.02 6.002" stroke-width="1" stroke="hsla(258.5,59.4%,59.4%,1)" fill="none"/>
+      </pattern>
+    </defs>
+        <defs>
+      <pattern id="c" patternUnits="userSpaceOnUse" width="70" height="8" patternTransform="scale(1) rotate(45)">
+        <rect x="0" y="0" width="100%" height="100%" fill="hsla(0, 9%, 0%, 1)"/>
+        <path d="M-.02 22c8.373 0 11.938-4.695 16.32-9.662C20.785 7.258 25.728 2 35 2c9.272 0 14.215 5.258 18.7 10.338C58.082 17.305 61.647 22 70.02 22M-.02 14.002C8.353 14 11.918 9.306 16.3 4.339 20.785-.742 25.728-6 35-6 44.272-6 49.215-.742 53.7 4.339c4.382 4.967 7.947 9.661 16.32 9.664M70 6.004c-8.373-.001-11.918-4.698-16.3-9.665C49.215-8.742 44.272-14 35-14c-9.272 0-14.215 5.258-18.7 10.339C11.918 1.306 8.353 6-.02 6.002" stroke-width="1" stroke="hsla(258.5,59.4%,59.4%,1)" fill="none"/>
+      </pattern>
+    </defs>
+        <defs>
+      <pattern id="d" patternUnits="userSpaceOnUse" width="70" height="8" patternTransform="scale(1) rotate(135)">
+        <rect x="0" y="0" width="100%" height="100%" fill="hsla(0, 9%, 0%, 1)"/>
+        <path d="M-.02 22c8.373 0 11.938-4.695 16.32-9.662C20.785 7.258 25.728 2 35 2c9.272 0 14.215 5.258 18.7 10.338C58.082 17.305 61.647 22 70.02 22M-.02 14.002C8.353 14 11.918 9.306 16.3 4.339 20.785-.742 25.728-6 35-6 44.272-6 49.215-.742 53.7 4.339c4.382 4.967 7.947 9.661 16.32 9.664M70 6.004c-8.373-.001-11.918-4.698-16.3-9.665C49.215-8.742 44.272-14 35-14c-9.272 0-14.215 5.258-18.7 10.339C11.918 1.306 8.353 6-.02 6.002" stroke-width="1" stroke="hsla(258.5,59.4%,59.4%,1)" fill="none"/>
+      </pattern>
+    </defs>
+        <defs>
+      <pattern id="e" patternUnits="userSpaceOnUse" width="70" height="8" patternTransform="scale(1) rotate(135 0 0)">
+        <rect x="0" y="0" width="100%" height="100%" fill="hsla(0, 9%, 0%, 1)"/>
+        <path d="M-.02 22c8.373 0 11.938-4.695 16.32-9.662C20.785 7.258 25.728 2 35 2c9.272 0 14.215 5.258 18.7 10.338C58.082 17.305 61.647 22 70.02 22M-.02 14.002C8.353 14 11.918 9.306 16.3 4.339 20.785-.742 25.728-6 35-6 44.272-6 49.215-.742 53.7 4.339c4.382 4.967 7.947 9.661 16.32 9.664M70 6.004c-8.373-.001-11.918-4.698-16.3-9.665C49.215-8.742 44.272-14 35-14c-9.272 0-14.215 5.258-18.7 10.339C11.918 1.306 8.353 6-.02 6.002" stroke-width="1" stroke="hsla(258.5,59.4%,59.4%,1)" fill="none"/>
+      </pattern>
+    </defs>
+
+
+  </svg>
+  <filter id="dropShadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="5"/>
+<!--Adjust the blur for the shadow-->
+    <feOffset dx="1" dy="1" result="offsetblur"/>
+    <feFlood flood-color="rgba(0,0,0,1)"/>
+<!--Shadow color and opacity-->
+    <feComposite in2="offsetblur" operator="in"/>
+    <feMerge>
+      <feMergeNode/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <rect width="681" height="681" fill="url(#e)"/>
+  <g clip-path="url(#clip0_9_64)" filter="url(#dropShadow)">
+    <path d="M341 255C341 301.944 302.945 340 256 340V255H341Z" fill="url(#d)"/>
+    <path d="M171 255C171 301.944 209.055 340 256 340V255H171Z" fill="url(#d)"/>
+    <path d="M256.421 255.314H171.421V170.314H256.421V255.314Z" fill="url(#d)"/>
+    <path d="M256.182 255.314H341.182C341.182 208.369 303.126 170.314 256.182 170.314V255.314Z" fill="url(#d)"/>
+    
+    <path d="M341 255C341 301.944 379.055 340 426 340V255H341Z" fill="url(#d)"/>
+    <path d="M510.824 255C510.824 301.944 472.768 340 425.824 340V255H510.824Z" fill="url(#d)"/>
+    <path d="M425.707 255.359H340.707C340.707 208.479 378.828 170.359 425.707 170.359V255.359Z" fill="url(#d)"/>
+    <path d="M425.824 255.359H510.824C510.824 208.415 472.768 170.359 425.824 170.359V255.359Z" fill="url(#d)"/>
+    <path d="M255.941 425.074H170.941V340.074H255.941V425.074Z" fill="url(#d)"/>
+    <path d="M255.941 509.6H170.941V424.6H255.941V509.6Z" fill="url(#d)"/>
+    <path d="M340.941 425.074H255.941V340.074H340.941V425.074Z" fill="url(#d)"/>
+    <path d="M340.941 509.6H255.941V424.6H340.941V509.6Z" fill="url(#d)"/>
+    <path d="M425.941 425.074H340.941V340.074H425.941V425.074Z" fill="url(#d)"/>
+    <path d="M425.941 509.6H340.941V424.6H425.941V509.6Z" fill="url(#d)"/>
+    <path d="M510.941 425.074H425.941V340.074H510.941V425.074Z" fill="url(#d)"/>
+    <path d="M510.941 509.6H425.941V424.6H510.941V509.6Z" fill="url(#d)"/>
+  </g>
+  <defs>
+    <clipPath id="clip0_9_64">
+      <rect width="681" height="681" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>

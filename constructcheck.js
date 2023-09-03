@@ -34,12 +34,12 @@ for (let i = 0; i < rows; i++) {
 	for (let j = 0; j < cols; j++) {
 		svg += `
 		<g transform="translate(${x}, ${y}) scale(1) rotate(${angle - 30}, 18, 20.5)">
-			<use href="#oval" fill="#000">
+			<use href="#oval" fill="#fff">
 				<animate attributeName="fill" values="#FF9193;#EA3A2D;#D41515;#E8424E;#DB2F96;#6C31D7;#322F92;#2E4985;#60B1F4;#81D1EC;#5ABAD3;#3EB8A1;#5FCD8C;#94E337;#FAE663;#F9DA4D;#F6CB45;#FFB340;#F9A45C;#EF9933;#FF9193" dur="40s" begin="animation.begin" repeatCount="indefinite"/>
 			</use>
 		</g>
-		<g transform="translate(${x}, ${y}) scale(1) rotate(${angle + 90}, 20.5, 17.5)">
-			<use href="#oval" fill="#fff">
+		<g transform="translate(${x}, ${y}) scale(1) rotate(${angle + 90}, 20, 17.5)">
+			<use href="#oval" fill="#000">
 				<animate attributeName="fill"/>
 			</use>
 		</g>

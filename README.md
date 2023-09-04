@@ -7,7 +7,7 @@
 ![](https://egtheory.files.wordpress.com/2014/01/cube.jpg)
 
 ### Enigma: Unveiling Reality
-
+```
 In shadows cast, a world concealed,
 Where whispers of the truth are sealed,
 Beneath the veil, illusions dance,
@@ -42,3 +42,4 @@ To pierce the veil and break the seal,
 Discover truths that time can't heal,
 In cryptic messages, you'll find,
 The essence of a mystic mind.
+```
